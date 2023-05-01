@@ -65,4 +65,3 @@ CREATE TABLE Capstone.energy (
 	rate_of_energy_cost decimal,
 	month_year date
 );
-​
